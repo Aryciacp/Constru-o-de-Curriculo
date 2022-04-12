@@ -1,0 +1,124 @@
+.clear {
+	clear: 1px;
+}
+
+#headshot img {
+	width: 8%;
+	float: left;
+	border: 2px;
+	border-radius: 50%;
+	margin: 0 0 30px 100px;
+}
+
+#name {
+	float: left;
+	font-family: 'helvetica', sans-serif;
+	font-size: 20px;
+	line-height: 3px;
+	color: #a45b5b;
+	padding: 10px 0px 10px 30px;
+	border: 2px;
+}
+
+div#name h2 {
+	font-size: 38px;
+}
+
+#contactDetails {
+	float: right;
+	width: 20%;
+	font-family: 'lato', sans-serif;
+	font-size: 16px;
+	margin-right: 4%;
+	color: #181818;
+	border:2px;
+}
+
+.linhaHeader {
+	border: 0,5px solid;
+	border-color: #181818;
+	width: 95%;
+	margin: auto;
+}
+
+.sectionTitle h1 {
+	float: left;
+	width: 23%;
+	height: 30%;
+	color: #a45b5b;
+	font-family: 'Rokkitt', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: lighter;
+	border: 1px;
+	display: block;
+	margin-left: 5%;
+}
+
+
+.subDetails {
+	font-style: italic;
+	line-height: 1px;
+}
+
+.sectionContent {
+	float: right;
+	width: 60%;
+	text-align: justify;
+	font-size: 15px;
+	color: #a45b5b;
+	border: 1px;
+	display: block;
+	padding-right: 10%;
+}
+
+h2 {
+	font-weight: lighter;
+	font-size: 30px;
+	font-family: 'Rokkitt', sans-serif;
+	line-height: 1px;
+	color:#a45b5b;
+}
+
+.keySkills {
+	color: #181818;
+    	display: block;
+	columns: 3;
+	column-width: 40%;
+	column-gap: 5%;
+	padding-left: 0;
+    	list-style: none;
+}
+
+ul.keySkills {
+	padding: 0;
+}
+
+hr {
+	border: 0.5px solid;
+	border-color: #181818;
+	width: 85%;
+	margin: auto;
+}
+
+body, html {
+	font-family: 'lato', sans-serif;
+	color: #181818;
+	padding: 5%;
+}
+
+a {
+	text-decoration: none;
+	color: #181818;
+	margin-bottom: 2px;
+}
+
+ul {
+	color: #181818;
+	list-style: none;
+}
+
+p {
+	color: #181818;
+}
